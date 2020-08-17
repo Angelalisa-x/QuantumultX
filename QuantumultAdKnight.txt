@@ -1,7 +1,3 @@
-# DOMAIN-SET,https://raw.githubusercontent.com/Angelalisa-x/SurgeModule/master/AdKnight.txt,REJECT
-
-# Current total domain name : AD_Block
-
 DOMAIN-SUFFIX,huyaimg.msstatic.com,REJECT
 DOMAIN-SUFFIX,diy-assets.msstatic.com,REJECT
 DOMAIN-SUFFIX,v-cms-img.huya.com,REJECT
