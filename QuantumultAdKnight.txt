@@ -23,3 +23,11 @@ DOMAIN-SUFFIX,appldnld.apple.com.akadns.net,REJECT
 DOMAIN-SUFFIX,api.smoot.apple.cn,REJECT
 DOMAIN-SUFFIX,update,REJECT
 DOMAIN-SUFFIX,eimg.smzdm.com,REJECT
+DOMAIN-SUFFIX,bbs.hori-gz.com,REJECT
+DOMAIN-SUFFIX,mms.hori-gz.com,REJECT
+DOMAIN-SUFFIX,yxhd.hori-gz.com,REJECT
+DOMAIN-SUFFIX,ad.hori-gz.com,REJECT
+DOMAIN-SUFFIX,adfile.hori-gz.com,REJECT
+DOMAIN-SUFFIX,shop17741405.m.youzan.com,REJECT
+DOMAIN-SUFFIX,pangolin.snssdk.com,REJECT
+DOMAIN-SUFFIX,kinglian.cn,REJECT
