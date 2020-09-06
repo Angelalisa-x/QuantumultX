@@ -1,15 +1,3 @@
-DOMAIN-SUFFIX,huyaimg.msstatic.com,REJECT
-DOMAIN-SUFFIX,diy-assets.msstatic.com,REJECT
-DOMAIN-SUFFIX,v-cms-img.huya.com,REJECT
-DOMAIN-SUFFIX,livewebbs2.msstatic.com,REJECT
-DOMAIN-SUFFIX,ylog.huya.com,REJECT
-DOMAIN-SUFFIX,business.msstatic.com,REJECT
-DOMAIN-SUFFIX,sta-op.douyucdn.cn,REJECT
-DOMAIN-SUFFIX,staticlive.douyucdn.cn,REJECT
-DOMAIN-SUFFIX,gfs-op.douyucdn.cn,REJECT
-DOMAIN-SUFFIX,va.videojj.com,REJECT
-DOMAIN-SUFFIX,apic.douyucdn.cn,REJECT
-DOMAIN-SUFFIX,res.douyucdn.cn,REJECT
 DOMAIN-SUFFIX,adstatic.peopleapp.,REJECT
 DOMAIN-SUFFIX,pgdt.gtimg.cn,REJECT
 DOMAIN-SUFFIX,gdmf.apple.com,REJECT
@@ -21,7 +9,7 @@ DOMAIN-SUFFIX,mesu.g.aaplimg.com,REJECT
 DOMAIN-SUFFIX,appldnld.apple.com,REJECT
 DOMAIN-SUFFIX,appldnld.apple.com.akadns.net,REJECT
 DOMAIN-SUFFIX,api.smoot.apple.cn,REJECT
-DOMAIN-SUFFIX,update,REJECT
+DOMAIN-SUFFIX,*update*,REJECT
 DOMAIN-SUFFIX,eimg.smzdm.com,REJECT
 DOMAIN-SUFFIX,bbs.hori-gz.com,REJECT
 DOMAIN-SUFFIX,mms.hori-gz.com,REJECT
