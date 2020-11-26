@@ -139,6 +139,7 @@ if __name__ == "__main__":
     fin = open("Wangzhandizhi.txt","w",encoding='UTF-8')
     fin.close()
     pullWangzhandizhi('https://github.com/lxk0301/jd_scripts')
+    pullWangzhandizhi('https://github.com/799953468/Quantumult-X/tree/master/Scripts/JD')
 
     
 
