@@ -80,3 +80,10 @@ https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_su
 https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_unsubscribe.js
 https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jdczf.js
 https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jdczf_cookie.js
+
+https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jdCookie.js
+https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_baiTiao.js
+https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_example.js
+https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js
+https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js
+https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_woHome.js

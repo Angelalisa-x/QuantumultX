@@ -140,6 +140,7 @@ if __name__ == "__main__":
     fin.close()
     pullWangzhandizhi('https://github.com/lxk0301/jd_scripts')
     pullWangzhandizhi('https://github.com/799953468/Quantumult-X/tree/master/Scripts/JD')
+    pullWangzhandizhi('https://github.com/yangtingxiao/QuantumultX/tree/master/scripts/jd')
 
     
 
