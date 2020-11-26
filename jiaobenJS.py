@@ -92,6 +92,34 @@ def pullTaskWangzhanInfo(urlInfo):
             fin7.write(line)
         fin7.close()
 
+def pullWangzhandizhi(urlInfo):
+    url = urlInfo
+    html = requests.get(url).text
+
+    fin = open("temporary.txt","w",encoding='UTF-8')
+    fin.write(html)
+    fin.close()
+
+    with open("Wangzhandizhi.txt","a+",encoding='UTF-8') as fin7:
+        fin7.write("\n")
+        for line in open("temporary.txt",encoding='UTF-8'):
+            str = []
+            strL = []
+            strR = []
+            str = line
+            if "</a></span>" in line:
+                str = str[str.find("href=\"") + 6 : str.find("\n")]
+                if ".js" in line:
+                    str = str[0 : str.find(".js") + 3] + "\n"
+                    strL = str[0 : str.find("blob")]
+                    strR = str[str.find("blob") + 5 : str.find("\n")] + "\n"
+                    str =  "https://raw.githubusercontent.com" + strL + strR
+                    fin7.write(str)
+                    continue
+            
+            
+        fin7.close()
+
 ################ 合并文件 #################
 def hebingFile(targetFile,mergeFile):
     fin = open(targetFile, "a+",encoding='UTF-8')
@@ -106,7 +134,13 @@ if __name__ == "__main__":
     pullTaskWangzhanInfo('https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Task.conf')
     pullTaskWangzhanInfo('https://raw.githubusercontent.com/Tartarus2014/Surge-Script/master/Task.sgmodule')
 
-    Deduplication("TaskJS.conf","TaskJS.txt")
+    #Deduplication("TaskJS.conf","TaskJS.txt")
+
+    fin = open("Wangzhandizhi.txt","w",encoding='UTF-8')
+    fin.close()
+    pullWangzhandizhi('https://github.com/lxk0301/jd_scripts')
+
+    
 
 
     os.remove("temporary.txt")
