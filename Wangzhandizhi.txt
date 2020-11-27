@@ -38,6 +38,7 @@ https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_shop.js
 https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_small_home.js
 https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_speed.js
 https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_superMarket.js
+https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_syj.js
 https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unsubscribe.js
 https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_xtg.js
 https://raw.githubusercontent.com/lxk0301/jd_scripts/master/lxk0301.boxjs.js
