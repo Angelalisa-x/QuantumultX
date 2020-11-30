@@ -210,14 +210,14 @@ cron "21 9 8 * * *" https://raw.githubusercontent.com/barrym-chen/Script/master/
 # yichahucha    https://github.com/yichahucha/surge/tree/master
 11 7 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/yichahucha/cron_daily.js, tag=每日一句+蚂蚁森林收能量, enabled=true
 
-# iNotification   
+# iNotification
 40 9 8 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/loulancheck.js, tag=楼兰小说, enabled=true
 50 9 8 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/cmbchina.js, tag=招行信用卡, enabled=true
 
 # qiaoborui    https://github.com/qiaoborui
 10 11 8 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/360.js, tag=360扫地机, enabled=true
 
-# Dachaw  
+# Dachaw
 0 0 8 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/nCoVrumors.js, tag=疫情辟谣, enabled=true
 
 # makexp
@@ -243,7 +243,7 @@ cron "21 9 8 * * *" https://raw.githubusercontent.com/barrym-chen/Script/master/
 13 0/1 * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/yydkziye.js, tag=音乐打卡, enabled=true
 10 0/1 * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/zqdkziye.js, tag=早起打卡, enabled=true
 
-# iisams 
+# iisams
 7 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js, tag=梨涡签到领现金, enabled=true
 5 8 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/jdtqz.js, tag= 京东特权值, enabled=true
 
@@ -297,6 +297,9 @@ cron "21 9 8 * * *" https://raw.githubusercontent.com/barrym-chen/Script/master/
 
 # passerby-b
 1 0 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付签到, enabled=true
+
+# ziye12
+*/11 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js, tag=企鹅读, enabled=true
 
 #!name=Tartarus iOS Tasks Module
 #!desc=iOS Tasks 模块配置

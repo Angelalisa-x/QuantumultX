@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/lxk0301/jd_scripts/master/Env.min.js
 https://raw.githubusercontent.com/lxk0301/jd_scripts/master/JD_extra_cookie.js
 https://raw.githubusercontent.com/lxk0301/jd_scripts/master/index.js
 https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jdCookie.js
+https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jdDreamFactoryShareCodes.js
 https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jdFactoryShareCodes.js
 https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jdFruitShareCodes.js
 https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jdPetShareCodes.js
@@ -78,6 +79,7 @@ https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_sh
 https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_small_home.js
 https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_speed.js
 https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_superMarket.js
+https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_syj.js
 https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_unsubscribe.js
 https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jdczf.js
 https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jdczf_cookie.js
