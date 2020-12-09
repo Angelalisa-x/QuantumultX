@@ -99,7 +99,9 @@
         "1 0/12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_split.js, tag=年终奖, enabled=true",
         "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_home.js, tag=领京豆额外奖励, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_bean_home.png, enabled=true",
         "1 0/12 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_hongbao.js, tag=双12红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-        "0 0/12 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png, enabled=true"
+        "0 0/12 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png, enabled=true",
+        "1 0/12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_apple_live.js, tag=苹果抽奖机, enabled=true",
+        "30 20-23/1 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain2.js, tag=超级直播间红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true"
 
     ]
 }
