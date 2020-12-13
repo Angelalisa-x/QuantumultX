@@ -106,7 +106,8 @@
         "0 9/12 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js, tag=京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png, enabled=true",
         "10-20/5 12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js, tag=京东直播, enabled=true",
         "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jdlottery.png, enabled=true",
-        "30 18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd.js, tag=半自动领京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true"
+        "30 18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd.js, tag=半自动领京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true",
+        "10 6/12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jr_sign.js, tag=金融打卡领年终奖, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true"
 
     ]
 }
