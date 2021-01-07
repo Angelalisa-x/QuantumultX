@@ -114,7 +114,9 @@
         "55 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unbind.js, tag=注销京东会员卡, enabled=true",
         "10 7/12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_crazy_joy.js, tag=crazyJoy任务, enabled=true",
         "10 7/12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_crazy_joy_coin.js, tag=crazyJoy挂机, enabled=true",
-        "10 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd_tuan.js, tag=京东赚京东开团, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true"
+        "10 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd_tuan.js, tag=京东赚京东开团, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true",
+        "56 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_get_share_code.js, tag=获取互助码, enabled=true",
+        "0 0/12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car_exchange, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true"
 
     ]
 }
