@@ -1,1 +1,1 @@
-http=tls://nmdns.trli.club, over-tls=true, fast-open=false, udp-relay=false, tag=doh
+http=nmdns.trli.club, over-tls=true, fast-open=false, udp-relay=false, tag=doh
