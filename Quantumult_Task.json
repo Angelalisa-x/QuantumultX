@@ -122,7 +122,8 @@
         "1 8,12,18 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bookshop.js, tag=口袋书店, enabled=true",
         "0 9,12,18 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_jxnc.js, tag=京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png, enabled=true",
         "1 0/12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_cash.js, tag=签到领现金, enabled=true",
-        "5 0/12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jx_sign.js, tag=京喜签到, enabled=true"
+        "5 0/12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jx_sign.js, tag=京喜签到, enabled=true",
+        "1 0/7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_nh.js, tag=京东年货节, enabled=true"
 
     ]
 }
