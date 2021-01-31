@@ -1,1 +1,1 @@
-host-keyword, nyxz166, reject
+host-suffix, nyxz166.cn, reject
