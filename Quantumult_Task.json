@@ -101,7 +101,9 @@
         "0/30 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory.js, tag=京喜工厂助力+自动开团参团, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true",
         "0 1,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js, tag=京喜工厂plus, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_factory_component.png, enabled=true",
         "0 9,12,20,21 2-22 2 * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_global.js, tag=环球挑战赛, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_global.png, enabled=true",
-        "0 9,12,20,21 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_global_mh.js, tag=京东国际盲盒, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_global_mh.png, enabled=true"
+        "0 9,12,20,21 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_global_mh.js, tag=京东国际盲盒, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_global_mh.png, enabled=true",
+        "1 7,12,19 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_beauty.js, tag=美丽研究院, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_global_mh.png, enabled=true",
+        "0 7 19-25 2 * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nzmh.js, tag=女装盲盒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
 
     ]
 }
